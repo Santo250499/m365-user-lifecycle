@@ -1,0 +1,26 @@
+# Local configuration and secrets. Ship the *.example files only.
+config/settings.psd1
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+
+# Run output. May contain lab UPNs and temporary passwords.
+logs/
+out/
+*.log
+transcript-*.txt
+
+# Test and editor output
+TestResults/
+coverage.xml
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+UserPrincipalName,DisableSignIn,RevokeSessions,RemoveLicenses,RemoveGroups,AddSharedMailboxNote
+alex.example@contoso.com,true,true,false,true,true
+jamie.sample@contoso.com,true,true,true,true,false
+riley.placeholder@contoso.com,true,true,true,true,false
