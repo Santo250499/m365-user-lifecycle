@@ -1,0 +1,4 @@
+DisplayName,UserPrincipalName,GivenName,Surname,Department,JobTitle,LicenseSku,GroupIds,ManagerUserPrincipalName,UsageLocation
+Alex Example,alex.example@contoso.com,Alex,Example,ICT,Support Officer,SPE_E3,,,AU
+Jamie Sample,jamie.sample@contoso.com,Jamie,Sample,Finance,Accounts Officer,SPE_E3,,,AU
+Riley Placeholder,riley.placeholder@contoso.com,Riley,Placeholder,People and Culture,HR Advisor,SPE_E3,,alex.example@contoso.com,AU
